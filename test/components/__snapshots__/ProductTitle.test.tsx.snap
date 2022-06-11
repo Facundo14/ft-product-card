@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage debe de mostrar el componente correctamente con la imagen personalizada 1`] = `
+<span
+  className="productDescription custom-class"
+>
+  Custom product
+</span>
+`;
+
+exports[`ProductImage debe mostrar el componente con la imagen del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Coffee Mug - Sin Imagen
+  </span>
+</div>
+`;

@@ -37,7 +37,6 @@ export const ProductCard = ({ children, product, className, style, onChange, val
                         isMaxCountReached,
                         maxCount: initialValues?.maxCount,
                         product,
-
                         increaseBy,
                         reset,
                     }) 
